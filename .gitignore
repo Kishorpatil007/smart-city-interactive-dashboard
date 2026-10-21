@@ -31,3 +31,8 @@ desktop.ini
 .idea/
 *.swp
 *.swo
+
+# Academic reports & local documentation
+PROJECT_REPORT.md
+*.pdf
+*.docx
